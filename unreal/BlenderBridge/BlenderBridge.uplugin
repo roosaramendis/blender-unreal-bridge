@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "0.15.0",
+	"FriendlyName": "Blender Bridge",
+	"Description": "One-click import of assets and scenes exported by the Blender 'Unreal Bridge' addon.",
+	"Category": "Importers",
+	"CreatedBy": "roosaramendis",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Plugins": [
+		{ "Name": "PythonScriptPlugin", "Enabled": true }
+	]
+}
